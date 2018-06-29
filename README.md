@@ -19,7 +19,7 @@ https://github.com/SamSma/react-ie9
 兼容ie9 及以上 antd框架
 
 https://github.com/taijizhizao/react-antd-ie9
-react-antd-ie9
+react+antd项目开发中遇到的IE9兼容问题
 
 https://github.com/xiepeng005/webpack-react
 React for ie9
@@ -33,4 +33,5 @@ Using webpack/babel and serving up the HTML, this renders for IE9+ as well as Op
 https://github.com/976500133/beautyiReactSeed
 网站发布shell脚本 + react + es6 + redux + router + ApiServer + 404 + react-redux-loading-bar + ie9 以下提示， 涵盖了基础的 react 和平时网站需要的功能组件
 
-
+https://github.com/HeavenSky/webpack-frames/tree/master/webpack3-react
+采用 React 和 Ant Design 兼容到浏览器 IE9 的 demo 例子.
