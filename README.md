@@ -39,3 +39,9 @@ https://github.com/HeavenSky/webpack-frames/tree/master/webpack3-react
 ## Resources on react
 https://www.oschina.net/p/a-cartoon-intro-to-redux-cn
 看漫画学 Redux
+
+https://reacttraining.com/react-router/web/guides/philosophy
+https://react-guide.github.io/react-router-cn/docs/Introduction.html
+react router文档
+
+
