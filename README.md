@@ -35,3 +35,7 @@ https://github.com/976500133/beautyiReactSeed
 
 https://github.com/HeavenSky/webpack-frames/tree/master/webpack3-react
 采用 React 和 Ant Design 兼容到浏览器 IE9 的 demo 例子.
+
+## Resources on react
+https://www.oschina.net/p/a-cartoon-intro-to-redux-cn
+看漫画学 Redux
