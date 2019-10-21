@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T07:44:20.683Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="DCnl4oTJ_xdNU99GWxck" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-21T08:15:57.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="nC_vn_P0ZJm_TcSXTgwv" version="12.1.3" type="github" pages="1">
   <diagram id="IZBP0mqrMQUnNwASLiVP" name="Page-1">
     <mxGraphModel dx="1331" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
             <mxPoint y="-1" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6z0s-MIZYobqjLazBSK-1" value="监控平台&lt;br style=&quot;font-size: 19px&quot;&gt;redis、MQ&lt;br style=&quot;font-size: 19px&quot;&gt;服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z6z0s-MIZYobqjLazBSK-1" value="监控平台&lt;br style=&quot;font-size: 19px&quot;&gt;redis、MQ、jstorm服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1141" y="2748" width="160" height="71" as="geometry"/>
         </mxCell>
         <mxCell id="z6z0s-MIZYobqjLazBSK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="z6z0s-MIZYobqjLazBSK-2" target="z6z0s-MIZYobqjLazBSK-1">
