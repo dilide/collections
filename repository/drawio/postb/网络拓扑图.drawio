@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T09:01:36.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="_mg8KBJr55Lv-XOavtgt" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T09:14:55.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="z494AdKu9vJ3bLuV_0SN" version="12.1.4" type="github" pages="1">
   <diagram id="IZBP0mqrMQUnNwASLiVP" name="Page-1">
     <mxGraphModel dx="1864" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="30000" pageHeight="40000" math="0" shadow="0">
       <root>
@@ -7,6 +7,9 @@
         <mxCell id="gY8Zco-nnhK0H6aGIAgo-136" value="负载均衡器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6881B3;fillColor=none;fontSize=21;align=center;" parent="1" vertex="1">
           <mxGeometry x="907" y="2427.5" width="56" height="197" as="geometry"/>
         </mxCell>
+        <mxCell id="wNHHVUWYG327KDc-E-Of-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;strokeColor=#FF33FF;fontSize=19;" edge="1" parent="1" source="gY8Zco-nnhK0H6aGIAgo-140" target="gY8Zco-nnhK0H6aGIAgo-143">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="gY8Zco-nnhK0H6aGIAgo-140" value="负载均衡器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6881B3;fillColor=none;fontSize=19;align=center;" parent="1" vertex="1">
           <mxGeometry x="498" y="2250" width="45" height="380" as="geometry"/>
         </mxCell>
@@ -14,6 +17,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="2559.5" as="sourcePoint"/>
             <mxPoint x="426.5" y="2534.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHHVUWYG327KDc-E-Of-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;strokeColor=#FF33FF;fontSize=19;" edge="1" parent="1" source="gY8Zco-nnhK0H6aGIAgo-143" target="wNHHVUWYG327KDc-E-Of-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="684" y="2200"/>
+              <mxPoint x="328" y="2200"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gY8Zco-nnhK0H6aGIAgo-143" value="外联前置" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6881B3;fillColor=none;fontSize=19;align=center;" parent="1" vertex="1">
@@ -392,6 +403,11 @@
               <mxPoint x="1618" y="3290"/>
               <mxPoint x="520" y="3290"/>
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHHVUWYG327KDc-E-Of-190" value=":2375&lt;br&gt;:7051&lt;br&gt;:7052&lt;br&gt;:7053&lt;br&gt;&lt;br&gt;:12375&lt;br&gt;:17051&lt;br&gt;:17052&lt;br&gt;:17053" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;" vertex="1" connectable="0" parent="wNHHVUWYG327KDc-E-Of-168">
+          <mxGeometry x="0.8867" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="gY8Zco-nnhK0H6aGIAgo-204" value="区块链服务平台服务器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=19;align=center;strokeWidth=2;snapToPoint=0;arcSize=12;" parent="1" vertex="1">
@@ -1102,6 +1118,12 @@
             <mxPoint x="748" y="2345" as="sourcePoint"/>
             <mxPoint x="794" y="2330" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHHVUWYG327KDc-E-Of-192" value="账本服务器1&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;:2375 -&amp;gt; :2375&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;:7051 -&amp;gt; :7051&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;:7052 -&amp;gt; :7052&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;:7053 -&amp;gt; :7053&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="402" y="2135" width="90" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="wNHHVUWYG327KDc-E-Of-193" value="&lt;span&gt;账本服务器2&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;:12375 -&amp;gt; :2375&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;:17051 -&amp;gt; :7051&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;:17052 -&amp;gt; :7052&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;:17053 -&amp;gt; :7053&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="2135" width="100" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
