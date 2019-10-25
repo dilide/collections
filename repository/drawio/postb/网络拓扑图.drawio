@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T13:56:37.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="hDPM5YQL3NE64fqD80Rf" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T01:21:10.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="hITNg5yC83ny9MQGmaaD" version="12.1.4" type="github" pages="1">
   <diagram id="IZBP0mqrMQUnNwASLiVP" name="Page-1">
     <mxGraphModel dx="1864" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="30000" pageHeight="40000" math="0" shadow="0">
       <root>
@@ -1117,7 +1117,7 @@
         <mxCell id="wNHHVUWYG327KDc-E-Of-170" value="账本服务器1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=19;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252" y="2305" width="150" height="55" as="geometry"/>
         </mxCell>
-        <mxCell id="wNHHVUWYG327KDc-E-Of-171" value="账本服务器1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=19;align=center;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wNHHVUWYG327KDc-E-Of-171" value="账本服务器2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=19;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252" y="2399" width="150" height="55" as="geometry"/>
         </mxCell>
         <mxCell id="wNHHVUWYG327KDc-E-Of-176" value="" style="endArrow=classic;html=1;strokeColor=#FFD3BD;fontSize=19;" edge="1" parent="1">
