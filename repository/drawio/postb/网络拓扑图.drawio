@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T00:31:37.214Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="7qhVZ-Ta1zi8NwOTYGcv" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T00:33:28.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="RcfRxNOh2x-Gavyd100u" version="12.1.7" type="github" pages="1">
   <diagram id="IZBP0mqrMQUnNwASLiVP" name="Page-1">
     <mxGraphModel dx="1553" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="30000" pageHeight="40000" math="0" shadow="0">
       <root>
@@ -646,6 +646,11 @@
               <mxPoint x="2088" y="3250"/>
               <mxPoint x="820" y="3250"/>
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URyMrxdaFC0GxKQAwGvH-6" value=":18001" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="wNHHVUWYG327KDc-E-Of-139">
+          <mxGeometry x="0.5839" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="rclUoReHh533xrVrYDvn-1" value="负载均衡器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6881B3;fillColor=none;fontSize=19;align=center;" parent="1" vertex="1">
