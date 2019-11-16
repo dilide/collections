@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-16T04:20:14.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="Sx0haC42xwsNr9YiFJwn" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-16T04:23:01.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="lXHDgcuiK4NrZBN5b41T" version="12.2.6" type="github" pages="1">
   <diagram id="6IozIT32LXbuVwREie7d" name="Page-1">
     <mxGraphModel dx="932" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
             <mxPoint x="98.94117647058829" y="75.82352941176475" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnVJirCMvpuZ7hxpCEFe-32" value="新组织加入通道审批" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wY5ASRHFbbLCHAGwUMeS-56" vertex="1">
+        <mxCell id="jnVJirCMvpuZ7hxpCEFe-32" value="存储管理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wY5ASRHFbbLCHAGwUMeS-56" vertex="1">
           <mxGeometry x="86" y="106" width="27" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="wY5ASRHFbbLCHAGwUMeS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="wY5ASRHFbbLCHAGwUMeS-56" source="jnVJirCMvpuZ7hxpCEFe-33">
