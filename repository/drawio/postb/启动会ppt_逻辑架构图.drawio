@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-16T07:17:42.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="lTOT5is6ugZRilp-j_jV" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T08:53:21.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="seIK3TnBcfFbck-oM3-x" version="12.2.6" type="github" pages="1">
   <diagram id="XpZo0hVpMd-6xpYEEkTo" name="Page-1">
     <mxGraphModel dx="932" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -136,17 +136,14 @@
         <mxCell id="LFdx-RBHR0Ke_Tq2nF07-85" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="1071" y="326.5" width="113" height="274" as="geometry"/>
         </mxCell>
-        <mxCell id="LFdx-RBHR0Ke_Tq2nF07-86" value="区块链代理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;align=center;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1071" y="351.5" width="27" height="224" as="geometry"/>
-        </mxCell>
         <mxCell id="LFdx-RBHR0Ke_Tq2nF07-87" value="REST" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=18;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1097.2851851851851" y="341.5" width="77.84444444444445" height="44" as="geometry"/>
+          <mxGeometry x="1088.7851851851851" y="341.5" width="77.84444444444445" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="LFdx-RBHR0Ke_Tq2nF07-88" value="gRPC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=18;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1097.2851851851851" y="439.5" width="77.84444444444445" height="44" as="geometry"/>
+          <mxGeometry x="1088.7851851851851" y="439.5" width="77.84444444444445" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="LFdx-RBHR0Ke_Tq2nF07-89" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=18;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1097.2851851851851" y="537.5" width="77.84444444444445" height="44" as="geometry"/>
+          <mxGeometry x="1088.7851851851851" y="537.5" width="77.84444444444445" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="LFdx-RBHR0Ke_Tq2nF07-90" value="共识机制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="842" y="568" width="126" height="27" as="geometry"/>
