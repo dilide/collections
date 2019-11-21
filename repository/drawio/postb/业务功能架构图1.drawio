@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-16T06:52:15.899Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="fefEDGwAs0edKuEWol8M" version="12.2.6" type="github" pages="1">
+<mxfile modified="2019-11-21T10:47:46.352Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="Z7ekgoE1eXBqPGHaR9SW" version="12.2.7" type="github" pages="1">
   <diagram id="WIEtUlI_L1v1tH11AKhi" name="第 1 页">
-    <mxGraphModel dx="932" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -109,14 +109,8 @@
         <mxCell id="Eo95rkR2elM9zv1yrzYy-41" value="主机接入" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="148" y="434" width="112" height="27" as="geometry"/>
         </mxCell>
-        <mxCell id="Eo95rkR2elM9zv1yrzYy-42" value="私有云接入" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="148" y="475" width="113" height="27" as="geometry"/>
-        </mxCell>
         <mxCell id="Eo95rkR2elM9zv1yrzYy-45" value="K8S" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="284" y="451" width="78" height="27" as="geometry"/>
-        </mxCell>
-        <mxCell id="Eo95rkR2elM9zv1yrzYy-46" value="存储资源" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="388" y="474.5" width="103" height="27" as="geometry"/>
         </mxCell>
         <mxCell id="Eo95rkR2elM9zv1yrzYy-47" value="网络资源" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="388" y="434" width="103" height="27" as="geometry"/>
@@ -274,20 +268,23 @@
         <mxCell id="-MIzdZnCXEipaB_-oH33-84" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="950.2851851851851" y="1067" width="77.84444444444445" height="44" as="geometry"/>
         </mxCell>
-        <mxCell id="CFUObo1nJz6rDOlNCSRg-3" value="共识机制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="CFUObo1nJz6rDOlNCSRg-3" value="共识机制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="695" y="1097.5" width="126" height="27" as="geometry"/>
         </mxCell>
-        <mxCell id="CFUObo1nJz6rDOlNCSRg-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.895;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;width=19;fillColor=#99CCFF;strokeColor=#007FFF;" edge="1" parent="1" source="-MIzdZnCXEipaB_-oH33-29" target="-MIzdZnCXEipaB_-oH33-32">
+        <mxCell id="CFUObo1nJz6rDOlNCSRg-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.895;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;width=19;fillColor=#99CCFF;strokeColor=#007FFF;" parent="1" source="-MIzdZnCXEipaB_-oH33-29" target="-MIzdZnCXEipaB_-oH33-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="858" y="1316" as="sourcePoint"/>
             <mxPoint x="908" y="1266" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFUObo1nJz6rDOlNCSRg-11" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#007FFF;fillColor=#99CCFF;fontSize=18;width=20;" edge="1" parent="1">
+        <mxCell id="CFUObo1nJz6rDOlNCSRg-11" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#007FFF;fillColor=#99CCFF;fontSize=18;width=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="919" y="1111" as="sourcePoint"/>
             <mxPoint x="848" y="1111" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h-NZQVWkjsbpDCVQzgBH-1" value="共识机制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fontSize=18;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="678" y="461.5" width="126" height="27" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
